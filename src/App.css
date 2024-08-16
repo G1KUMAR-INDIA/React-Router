@@ -1,0 +1,22 @@
+.border {
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+  justify-content: space-between;
+  margin: 5px 8px 3px 8px;
+}
+
+.App {
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+}
+.courseCard {
+  border: 1px solid navy;
+  width: 250px;
+  height: 380px;
+  margin: 5px;
+  border-radius: 3%;
+  overflow: hidden;
+  padding: 5px;
+}

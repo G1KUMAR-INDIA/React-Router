@@ -1,0 +1,153 @@
+[
+  {
+    "id": 1,
+    "name": "AI & ML",
+    "category": "IT",
+    "description": "Learn about Artificial Intelligence and Machine Learning, the technologies driving modern innovations.",
+    "duration": "6 months",
+    "modules": [
+      "Introduction to AI",
+      "Supervised Learning",
+      "Unsupervised Learning",
+      "Neural Networks",
+      "Natural Language Processing"
+    ],
+    "image": "https://www.rrce.org/blog/wp-content/uploads/2022/11/Artifical-Intelligence.-Machine-Learning-at-RRCE.png",
+    "video": "https://www.youtube.com/watch?v=nQKQ9bCcXXY"
+  },
+  {
+    "id": 2,
+    "name": "Blockchain",
+    "category": "IT",
+    "description": "Explore the world of Blockchain, the underlying technology behind cryptocurrencies like Bitcoin.",
+    "duration": "4 months",
+    "modules": [
+      "Blockchain Basics",
+      "Smart Contracts",
+      "Decentralized Applications",
+      "Cryptocurrency",
+      "Blockchain Security"
+    ],
+    "image": "https://www.a1worldwidelogistics.com/shipping-company/wp-content/uploads/2019/05/logistics-blockchain-710x309.png"
+  },
+  {
+    "id": 3,
+    "name": "Cloud Computing",
+    "category": "IT",
+    "description": "Master Cloud Computing with platforms like AWS, Azure, and Google Cloud.",
+    "duration": "5 months",
+    "modules": [
+      "Cloud Concepts",
+      "Cloud Service Models",
+      "Cloud Security",
+      "AWS Overview",
+      "Cloud Migration"
+    ],
+    "image": "https://miro.medium.com/v2/resize:fit:640/format:webp/1*ngkHgQq7ij1NBNr62er3zA.png"
+  },
+  {
+    "id": 4,
+    "name": "Cyber Security",
+    "category": "IT",
+    "description": "Understand the importance of Cyber Security and how to protect systems from cyber threats.",
+    "duration": "4 months",
+    "modules": [
+      "Introduction to Cyber Security",
+      "Risk Management",
+      "Network Security",
+      "Application Security",
+      "Incident Response"
+    ],
+    "image": "https://www.neit.edu/wp-content/uploads/2022/10/Cyber-Security-Icon-Concept-2-1-1024x632.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Data Science",
+    "category": "IT",
+    "description": "Dive into Data Science, analyzing and interpreting complex data to make informed decisions.",
+    "duration": "6 months",
+    "modules": [
+        "Data Wrangling",
+        "Statistical Analysis",
+        "Machine Learning",
+        "Data Visualization",
+        "Big Data Technologies"
+      ],
+      "image": "https://miro.medium.com/v2/resize:fit:640/format:webp/0*POjH5vv_7t8s8loG"
+  },
+  {
+    "id": 6,
+    "name": "DevOps",
+    "category": "IT",
+    "description": "Learn the principles of DevOps to improve collaboration between development and operations teams.",
+    "duration": "3 months",
+    "modules": [
+        "DevOps Fundamentals",
+        "Continuous Integration/Continuous Deployment",
+        "Containerization",
+        "Monitoring and Logging",
+        "Infrastructure as Code"
+      ],
+      "image": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*h5Zs-8nFcTrgR1UceyKYXA.png"
+  },
+  {
+    "id": 7,
+    "name": "Digital Marketing",
+    "category": "Non-IT",
+    "description": "Gain expertise in Digital Marketing strategies, SEO, SEM, and social media marketing.",
+    "duration": "2 months",
+    "modules": [
+        "SEO Basics",
+        "Content Marketing",
+        "Social Media Marketing",
+        "Email Marketing",
+        "Analytics and Measurement"
+      ],
+      "image": "https://onlinegurukul.org/storage/uploads/1658492516-dm.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "Full Stack Development",
+    "category": "IT",
+    "description": "Become a Full Stack Developer, mastering both front-end and back-end technologies.",
+    "duration": "6 months",
+    "modules": [
+        "HTML/CSS",
+        "JavaScript and Frameworks",
+        "Backend Development",
+        "APIs",
+        "Database Management"
+      ],
+      "image": "https://miro.medium.com/v2/resize:fit:720/format:webp/0*cl7fc6pt1MHjIF4K.png"
+  },
+  {
+    "id": 9,
+    "name": "Software Automation & Testing",
+    "category": "IT",
+    "description": "Learn Software Automation and Testing techniques to ensure high-quality software development.",
+    "duration": "4 months",
+    "modules": [
+        "Introduction to Testing",
+        "Test Automation Frameworks",
+        "Performance Testing",
+        "Test-Driven Development",
+        "Continuous Testing"
+      ],
+      "image": "https://miro.medium.com/v2/resize:fit:640/format:webp/1*TEu7li75KN6jv-ypWFLziQ.png"
+  },
+  {
+    "id": 10,
+    "name": "UI/UX Designing",
+    "category": "Non-IT",
+    "description": "Understand the principles of UI/UX Design to create user-friendly and visually appealing interfaces.",
+    "duration": "3 months",
+    "modules": [
+        "User Research",
+        "Wireframing and Prototyping",
+        "Visual Design",
+        "Usability Testing",
+        "Design Thinking"
+      ],
+      "image": "https://images.ctfassets.net/wp1lcwdav1p1/31dUrsGyucK0UNmJEQUqj3/3c57d917e84f6500ee2ec54e8760b854/UX_vs_UI.png?w=1500&q=60"
+  }
+]
