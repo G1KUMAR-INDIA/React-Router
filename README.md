@@ -14,10 +14,10 @@
     "@mui/material" Version @ "^5.16.7".
 
 ### Structure of the Project
-src/
+src
 |
 │
-├── components/
+├── components
 |   |
 │   ├── NavBar.jsx
 |   |
@@ -31,7 +31,7 @@ src/
 |   |
 │   └── CourseDetail.jsx
 │
-├── utilis/
+├── utilis
 |   |
 │   └── courses.json
 │
