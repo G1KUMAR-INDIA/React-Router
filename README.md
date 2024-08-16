@@ -14,29 +14,31 @@
     "@mui/material" Version @ "^5.16.7".
 
 ### Structure of the Project
-src
-|
-│
-├── components
-|   |
-│   ├── NavBar.jsx
-|   |
-│   ├── Home.jsx
-|   |
-│   ├── Courses.jsx
-|   |
-│   ├── AddCourse.jsx
-|   |
-│   ├── EditCourse.jsx
-|   |
-│   └── CourseDetail.jsx
-│
-├── utilis
-|   |
-│   └── courses.json
-│
-├──App.jsx
-|
-|
-└──Main.jsx
+
+
+        src
+        |
+        │
+        ├── components
+        |   |
+        │   ├── NavBar.jsx
+        |   |
+        │   ├── Home.jsx
+        |   |
+        │   ├── Courses.jsx
+        |   |
+        │   ├── AddCourse.jsx
+        |   |
+        │   ├── EditCourse.jsx
+        |   |
+        │   └── CourseDetail.jsx
+        │
+        ├── utilis
+        |   |
+        │   └── courses.json
+        │
+        ├──App.jsx
+        |
+        |
+        └──Main.jsx
 
