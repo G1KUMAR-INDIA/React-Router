@@ -15,17 +15,28 @@
 
 ### Structure of the Project
 src/
+|
 │
 ├── components/
-│   ├── NavBar.js
-│   ├── Home.js
-│   ├── Courses.js
-│   ├── AddCourse.js
-│   ├── EditCourse.js
-│   └── CourseDetail.js
+|   |
+│   ├── NavBar.jsx
+|   |
+│   ├── Home.jsx
+|   |
+│   ├── Courses.jsx
+|   |
+│   ├── AddCourse.jsx
+|   |
+│   ├── EditCourse.jsx
+|   |
+│   └── CourseDetail.jsx
 │
-├── data/
+├── utilis/
+|   |
 │   └── courses.json
 │
-├── App.js
-└── index.js
+├──App.jsx
+|
+|
+└──Main.jsx
+
